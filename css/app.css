@@ -1,0 +1,108 @@
+img {
+    max-width: 100%;
+}
+
+
+/*RESET BOOTSTRAP*/
+/*NAV*/
+
+.form-control {
+    background-color: white;
+    
+}
+
+.btn-outline-success {
+    --bs-btn-color: white;
+    --bs-btn-border-color: white;
+}
+
+.btn-secondary {
+    color: white;
+    font-size: 10px;
+    border: none;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: rgb(196, 196, 11);
+}
+
+.red {
+    background-color: red;
+}
+
+.menu-dash {
+    padding-top: 30px;
+}
+
+/*MY STYLE*/
+
+/*NAV*/
+.logo img {
+	height: 50px;
+}
+
+/*MAIN*/
+
+/*DASHBOARD*/
+.row > * {
+	/* border: 2px solid red; */
+}
+
+.dashboard {
+    padding-top: 25px;
+}
+
+/*TABLLA*/
+table {
+    /* border: 2px solid rgb(140 140 140); */
+    font-family: sans-serif;
+    margin: 15px 0px 30px;
+    width: 100%;
+}
+ 
+thead {
+    background-color: white;
+}
+  
+th, td {
+    /* border: 1px solid rgb(160 160 160); */
+    padding: 8px 10px;
+    text-align: center;
+}
+  
+.td-first {
+    text-align: left;
+}
+
+i {
+    border: 2px solid grey;
+    padding: 5px;
+    border-radius: 25%;
+    font-size: medium
+}
+
+.tr-grey {
+    background-color: #f2f2f2;
+}
+
+
+/*BOX*/
+
+.box {
+    border: 1px solid grey;
+    border-radius: 0.375rem;
+    margin-bottom: 30px;
+}
+
+.box-title {
+    background-color: lightgrey;
+    padding: 5px 10px;
+}
+
+.card ul {
+    padding: 5px 15px;
+}
